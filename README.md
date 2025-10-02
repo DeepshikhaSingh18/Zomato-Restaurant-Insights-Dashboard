@@ -34,4 +34,7 @@ This Power BI dashboard provides a comprehensive analysis of restaurant data fro
 ## Dataset links
 https://drive.google.com/drive/folders/1xF3KJAtjMAUuJ8zwtsjlj9IYU06tn1ll?usp=drive_link
 
+# Live Project link
+https://app.powerbi.com/view?r=eyJrIjoiNmY5MDU4ODgtNjZhYS00NDljLWE3NGYtYThiZTU2OGFjZmVhIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D
+
 
